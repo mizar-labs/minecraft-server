@@ -1,0 +1,26 @@
+minecraft-server:
+  ports:
+    - "25566:25566"
+
+  volumes:
+    - "D:/dockertests/data:/data"
+
+  environment:
+    EULA: "TRUE"
+    SERVER_NAME: "The Rainbow Network"
+    SERVER_PORT: "25566"
+    FORGE_INSTALLER: "forge-1.12.2-14.23.5.2854-installer.jar"
+    TYPE: "FORGE"
+    FORGEVERSION: "14.23.5.2854"
+    MOTD: "Welcome To The Rainbow Network"
+    OPS: "YourRainbow"
+    ALLOW_FLIGHT: "TRUE"
+    OVERRIDE_SERVER_PROPERTIES: "TRUE"
+
+  image: itzg/minecraft-server
+
+  container_name: mc
+
+  tty: true
+  stdin_open: true
+  restart: always
