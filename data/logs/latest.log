@@ -1,0 +1,86 @@
+[23:22:32] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:22:32] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:22:32] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[23:22:32] [main/INFO]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[23:22:32] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_212, running on Linux:amd64:4.19.128-microsoft-standard, installed at /usr/lib/jvm/java-1.8-openjdk/jre
+[23:22:32] [main/INFO]: Searching /data/./mods for mods
+[23:22:32] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:22:32] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:22:32] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:22:32] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[23:22:32] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:22:35] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[23:22:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[23:22:35] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[23:22:36] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:22:36] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[23:22:36] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[23:22:41] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[23:22:41] [Server thread/INFO]: MinecraftForge v14.23.5.2854 Initialized
+[23:22:41] [Server thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[23:22:41] [Server thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[23:22:42] [Server thread/INFO]: Replaced 1227 ore ingredients
+[23:22:42] [Server thread/INFO]: Searching /data/./mods for mods
+[23:22:43] [Server thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[23:22:43] [Server thread/WARN]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[23:22:43] [Server thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[23:22:43] [Server thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[23:22:44] [Server thread/INFO]: Processing ObjectHolder annotations
+[23:22:44] [Server thread/INFO]: Found 1168 ObjectHolder annotations
+[23:22:44] [Server thread/INFO]: Identifying ItemStackHolder annotations
+[23:22:44] [Server thread/INFO]: Found 0 ItemStackHolder annotations
+[23:22:44] [Server thread/INFO]: Configured a dormant chunk cache size of 0
+[23:22:45] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[23:22:45] [Server thread/INFO]: Applying holder lookups
+[23:22:45] [Server thread/INFO]: Holder lookups applied
+[23:22:45] [Server thread/INFO]: Applying holder lookups
+[23:22:45] [Server thread/INFO]: Holder lookups applied
+[23:22:45] [Server thread/INFO]: Applying holder lookups
+[23:22:45] [Server thread/INFO]: Holder lookups applied
+[23:22:45] [Server thread/INFO]: Applying holder lookups
+[23:22:45] [Server thread/INFO]: Holder lookups applied
+[23:22:45] [Server thread/INFO]: Injecting itemstacks
+[23:22:45] [Server thread/INFO]: Itemstack injection complete
+[23:22:45] [Server thread/INFO]: Loading properties
+[23:22:45] [Server thread/INFO]: Default game type: SURVIVAL
+[23:22:45] [Server thread/INFO]: Generating keypair
+[23:22:45] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Target: null
+[23:22:45] [Server thread/INFO]: Starting Minecraft server on *:25566
+[23:22:45] [Server thread/INFO]: Using epoll channel type
+[23:22:46] [Server thread/INFO]: Applying holder lookups
+[23:22:46] [Server thread/INFO]: Holder lookups applied
+[23:22:46] [Server thread/INFO]: Injecting itemstacks
+[23:22:46] [Server thread/INFO]: Itemstack injection complete
+[23:22:46] [Server thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[23:22:46] [Server thread/INFO]: Preparing level "world"
+[23:22:46] [Server thread/INFO]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4ff8fc96)
+[23:22:47] [Server thread/INFO]: Loaded 488 advancements
+[23:22:50] [Server thread/INFO]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4ff8fc96)
+[23:22:50] [Server thread/INFO]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4ff8fc96)
+[23:22:50] [Server thread/INFO]: Preparing start region for level 0
+[23:22:51] [Server thread/INFO]: Preparing spawn area: 0%
+[23:22:52] [Server thread/INFO]: Preparing spawn area: 5%
+[23:22:53] [Server thread/INFO]: Preparing spawn area: 10%
+[23:22:54] [Server thread/INFO]: Preparing spawn area: 17%
+[23:22:55] [Server thread/INFO]: Preparing spawn area: 25%
+[23:22:56] [Server thread/INFO]: Preparing spawn area: 34%
+[23:22:57] [Server thread/INFO]: Preparing spawn area: 43%
+[23:22:58] [Server thread/INFO]: Preparing spawn area: 55%
+[23:22:59] [Netty Epoll Server IO #1/INFO]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[23:22:59] [Server thread/INFO]: Preparing spawn area: 67%
+[23:23:00] [Server thread/INFO]: Preparing spawn area: 81%
+[23:23:01] [Server thread/INFO]: Preparing spawn area: 93%
+[23:23:02] [Server thread/INFO]: Done (15.931s)! For help, type "help" or "?"
+[23:23:02] [Server thread/INFO]: Starting remote control listener
+[23:23:02] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[23:23:02] [Server thread/INFO]: Unloading dimension -1
+[23:23:02] [Server thread/INFO]: Unloading dimension 1
+[23:25:27] [RCON Listener #1/INFO]: Rcon connection from: /127.0.0.1
+[23:25:27] [RCON Client #2/INFO]: §7§o[§r§7§oRcon§r§7§o: §r§7§oStopping the server§r§7§o]§r
+[23:25:27] [Server thread/INFO]: Stopping server
+[23:25:27] [Server thread/INFO]: Saving players
+[23:25:27] [Server thread/INFO]: Saving worlds
+[23:25:27] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[23:25:28] [Server thread/INFO]: Unloading dimension 0
+[23:25:28] [Server Shutdown Thread/INFO]: Stopping server
+[23:25:28] [Server Shutdown Thread/INFO]: Saving players
